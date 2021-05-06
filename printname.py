@@ -1,0 +1,1 @@
+print("Covid is dangerous")
